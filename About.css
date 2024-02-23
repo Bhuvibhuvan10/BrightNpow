@@ -1,0 +1,35 @@
+.about-container{
+    margin-top: 100px;
+    padding: 15px 25px;
+}
+.about-container .get{
+    color:var(--color-bg);
+    margin-bottom: 100px;
+}
+.about-badge{
+
+    margin-bottom: 100px;
+}
+.about-badge h3{
+    color:var(--color-bg);
+    font: 900;
+}
+.about-detail img{
+    margin-left: 10px;
+    width:500px;
+    height:400px;
+}
+.about-detail h3{
+    color:var(--color-bg);
+    margin-bottom: 50px;
+}
+/* * *****************Media Quries for medium devices***************** * */
+@media screen and (max-width:1024px) {
+  
+    
+}
+/* * *****************Media Quries for Small devices***************** * */
+@media screen and (max-width:600px) {
+   
+    
+}

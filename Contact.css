@@ -1,0 +1,33 @@
+.footer-distributed{
+    color:#fff;
+    background-color: black;
+    top:0;
+    left:0;
+    z-index: 100;
+    box-shadow: 5px 5px 20px black;
+    background-color:black;
+    
+}
+.footer-distributed h1{
+    margin:500px;
+    padding:20px 10px 10px 10px;
+    color: var(--color-primary);
+}
+.footer-distributed i{
+    color:var(--color-primary);
+}
+#h3 span{
+  color:var(--color-primary);
+}
+.get button{
+display: flexbox;
+margin: 10px;
+background: transparent;
+padding: 3px;
+border:none;
+}
+.social-media{
+    display: flex;
+    font-size: xx-large;
+    gap:2rem;
+}
